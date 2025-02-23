@@ -1,4 +1,4 @@
-# Diablo 4 Cheat Tool 
+# Diablo 4 Cheat Tool  
 
 The tool includes features like auto-loot, monster ESP, and stat boosting, configurable via a settings file.
 
